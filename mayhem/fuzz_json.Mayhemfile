@@ -1,4 +1,4 @@
-project: dissimilar
+project: path-to-error
 target: fuzz-json
 
 cmds:
