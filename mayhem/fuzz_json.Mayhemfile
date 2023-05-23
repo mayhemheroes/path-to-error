@@ -1,0 +1,5 @@
+project: path-to-error
+target: fuzz-json
+
+cmds:
+    - cmd: /fuzz_json
